@@ -23,9 +23,15 @@ npm i
 node course.js
 ```
 
+### exports
+- all scope of providers
+
+https://github.com/open-telemetry/opentelemetry-collector-contrib/tree/main/exporter
+![image](https://github.com/ivsonv/open-telemetry/assets/63156114/480ce0ae-4854-43bd-9a87-181c7fa4898f)
+
+
 ## zipkin
 all requisitions in `application go`
-
 
 ![image](https://github.com/ivsonv/open-telemetry/assets/63156114/00faa17f-ea02-411b-83ca-616fc4322a8f)
 
